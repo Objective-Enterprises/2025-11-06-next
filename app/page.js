@@ -6,7 +6,6 @@ export default async function HomePage() {
 
   return (
     <>
-      <h1>Dog App (Next)</h1>
       <Dog image={data.message} />
     </>
   )
